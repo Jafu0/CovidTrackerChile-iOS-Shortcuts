@@ -9,5 +9,8 @@ Incluye casos nuevos, casos totales, fallecidos y tasa de positividad (diaria y 
 
 Recomiendo crear una automatización a las 13:00 si quieren estar actualizados con los datos diarios.
 
+Es necesario instalar Actions (https://apps.apple.com/cl/app/actions/id1586435171) para usar el atajo.
+
+RoutineHub URL: https://routinehub.co/shortcut/11340/
 
 ![](https://i.imgur.com/2jK9MQr.png)
