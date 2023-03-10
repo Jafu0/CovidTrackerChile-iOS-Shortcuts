@@ -1,5 +1,5 @@
 # Covid Tracker Chile (in iOS Shortcuts)
-Based on Science and Technology ministry of Chile data.
+Tracks COVID cases based on the data provided by the Science and Technology ministry of Chile.
 
 This is a COVID data tracker based on the data provided by the Science and Technology Ministry of Chile.
 It includes total cases, active COVID cases, deceases and positivity rate.
@@ -13,4 +13,4 @@ Es necesario instalar Actions (https://apps.apple.com/cl/app/actions/id158643517
 
 RoutineHub URL: https://routinehub.co/shortcut/11340/
 
-![](https://i.imgur.com/2jK9MQr.png)
+![](https://repository-images.githubusercontent.com/470865310/4415c174-3d8d-4029-b11c-d9e07a6895e6)
