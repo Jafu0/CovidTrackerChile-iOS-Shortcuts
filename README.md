@@ -1,5 +1,4 @@
 # Covid Tracker Chile (in iOS Shortcuts)
-Tracks COVID cases based on the data provided by the Science and Technology ministry of Chile.
 
 This is a COVID data tracker based on the data provided by the Science and Technology Ministry of Chile.
 It includes total cases, active COVID cases, deceases and positivity rate.
